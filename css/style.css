@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(69, 199, 30);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 !important;
+}
+
+#header{
+    background-color: rgb(53, 160, 87);
+    padding: 2em;
+    color: rgb(0, 0, 0);  
+}
+
+h1 {
+  color: #f1cd4b;
+}
